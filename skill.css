@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.skill{
+    z-index: 1;
+    position: absolute ;
+    width: 1250px;
+
+}
+.skills{
+    position: absolute;
+    color: #fff200;
+    font-size: 40px;
+  margin: 0px;
+  padding: 0px;
+   margin-left: 50px;
+   margin-bottom: 600px;
+   z-index: 2;
+   top: 0px;
+}
+.PS{
+    z-index: 2;
+    position: absolute ;
+    width: 120px;
+    margin-top: 160px;
+    margin-left: 50px;
+}
+.PSstar{
+    z-index: 2;
+    position: absolute ;
+    width: 300px;
+    margin-top: 190px;
+    margin-left: 180px;
+}
+.AI{
+    z-index: 2;
+    position: absolute ;
+    width: 125px;
+    margin-left: 45px;
+    margin-top: 350px;
+}
+.AIstar{
+    z-index: 2;
+    position: absolute ;
+    width: 240px;
+    margin-top: 380px;
+    margin-left: 180px;
+}
+.PD{
+z-index: 2;
+position: absolute ;
+width: 120px;
+margin-left: 48px;
+margin-top: 540px;
+}
+.PDstar{
+    z-index: 2;
+    position: absolute ;
+    width: 240px;
+    margin-top: 570px;
+    margin-left: 180px;
+}
+.unity{
+    z-index: 2;
+    position: absolute ;
+    width: 135px;
+    margin-top: 155px;
+    margin-left: 550px;
+}
+.Unitystar{
+    z-index: 2;
+    position: absolute ;
+    width: 185px;
+    margin-left: 685px;
+    margin-top: 190px;
+}
+.figma{
+    z-index: 2;
+    position:absolute ;
+    width: 128px;
+    margin-left: 550px;
+    margin-top: 350px;
+}
+.figmastar{
+    z-index: 2;
+    position:absolute ;
+    width: 125px;
+    margin-left: 685px;
+    margin-top: 385px;
+}
